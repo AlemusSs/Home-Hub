@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "platform": "windows-x64",
+  "version": "0.3.4",
+  "publishedAt": "2026-11-22",
+  "url": "https://github.com/AlemusSs/Home-Hub/releases/download/v0.3.4/HomeHub-Windows-0.3.4-Setup.exe",
+  "size": 197486928,
+  "sha256": "45c43fd2bd198a54ed2db11357badaa27ff8e10db5f8fe0a4c0e015ed068b604",
+  "notes": "Зафиксированный выпуск 0.3.4. Сопряжения сохраняются при установке поверх прежней версии."
+}
