@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "platform": "android-phone",
+  "version": "0.3.4",
+  "publishedAt": "2026-11-22",
+  "url": "https://github.com/AlemusSs/Home-Hub/releases/download/v0.3.4/HomeHub-Android-0.3.4.apk",
+  "size": 14623108,
+  "sha256": "afe61170fa25558d1bc1e6b7c1da4289b7f046819870f960d576d09fe2d17d2b",
+  "notes": "Зафиксированный выпуск 0.3.4. Сопряжения сохраняются при установке поверх прежней версии.",
+  "versionCode": 30,
+  "packageId": "com.homehub.android"
+}
