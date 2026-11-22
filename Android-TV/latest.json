@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "platform": "android-tv",
+  "version": "0.3.4",
+  "publishedAt": "2026-11-22",
+  "url": "https://github.com/AlemusSs/Home-Hub/releases/download/v0.3.4/HomeHub-TV-0.3.4.apk",
+  "size": 31854407,
+  "sha256": "d7b057bb9c017d214a5e0bab516b09a180123f0236243ab3bb4c0f9e5a02a8e8",
+  "notes": "Зафиксированный выпуск 0.3.4. Сопряжения сохраняются при установке поверх прежней версии.",
+  "versionCode": 14,
+  "packageId": "com.homehub.tv"
+}
